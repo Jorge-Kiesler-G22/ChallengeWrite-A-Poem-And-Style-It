@@ -1,0 +1,48 @@
+body {
+    font-family: 'Lobster', cursive;
+}
+
+h1 {
+    font-size: 45px;
+}
+
+p, ul {
+    font-weight: bold;
+    background-color: Pink;
+    opacity: 5.4;
+}
+
+#NoManIsAnIsland, #Ozymandias {
+    width: 67%;
+    float:left;
+    margin-left: 23%;
+    padding: 5px;
+}
+
+#NoManIsAnIsland {
+     border: double thick black;
+     background-image:url("https://lh3.googleusercontent.com/proxy/R4OZvuTXLIAQmMYbt8alQCplmvXX-ubWeses3G6Z4RuULu_01leVckol4AEx0qBNGEuyOfz0jumi_nKnpuqIaBh43U2NKDDVh2k6BW_PnFggCcSo83YDQQm6eHqlgd0fGj_A6dDVvLZp");
+}
+
+#Ozymandias {
+    border: double thick black;
+  background-image:url("https://lh3.googleusercontent.com/proxy/Ltf3ahr05DgR597yGGebeYS_kqaTTkZZQWlWQtD43SrcnqzOQ9iIWpquo3K09xtpfHcI0_jWKENoIbC7mGju9ggMc_v5iaSDo_emIKikfMQ");
+}
+
+body {
+ background-image:url("https://img.freepik.com/free-vector/abstract-paper-hexagon-white-background_51543-7.jpg?size=626&ext=jpg");
+}
+
+#Container {
+    width: 960px;
+  height: 1000px;
+      border:solid thick black;
+      margin-left:auto;
+      margin-right:auto;
+      background-image: url("https://www.bellacor.com/media.bellacor.com/images/1500/238801PP35516.jpg");
+  }
+
+ 
+     
+
+
